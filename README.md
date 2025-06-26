@@ -81,7 +81,7 @@ fig.tight_layout(h_pad=0.5);
 ```
 #### Results
 
-![Skill Demand Final Visualisation](3_Project\images\skills_demand_final_vis.png)
+![Skill Demand Final Visualisation](<3_Project\images\skills_demand_final_vis.png>)
 
 *Bar graph visualising the likelihood of job postings requesting the top 5 skills for 3 job titles.*
 
