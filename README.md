@@ -138,7 +138,7 @@ plt.tight_layout()
 ```
 
 #### Results
-![Skills Trend Final Visualisation](3_Project\images\skills_trend_final_vis.png)
+![Skills Trend Final Visualisation](https://github.com/TimAnderson1/Python-Project/blob/main/3_Project/images/skills_trend_final_vis.png)
 
 *Line graph visualising the trend of skills being demanded over the year of 2023.*
 
@@ -175,7 +175,7 @@ ax.xaxis.set_major_formatter(plt.FuncFormatter(lambda y, pos: f'${int(y/1000)}K'
 ```
 
 #### Results
-![Salary Distribution for the Top 6 Data Roles](3_Project\images\salary_analysis_vis1.png)
+![Salary Distribution for the Top 6 Data Roles](https://github.com/TimAnderson1/Python-Project/blob/main/3_Project/images/salary_analysis_vis1.png)
 
 *A visualisation showing salary distribution for major data roles sorted by the median value.*
 
@@ -227,7 +227,7 @@ plt.tight_layout();
 ```
 #### Results
 
-![Highest Paid and Most Demanded Skills for Data Analysts](3_Project\images\salary_analysis_vis2.png)
+![Highest Paid and Most Demanded Skills for Data Analysts](https://github.com/TimAnderson1/Python-Project/blob/main/3_Project/images/salary_analysis_vis2.png)
 
 *Two seperate graphs visualising the highest paid skills and the most in demmand skills for Data Analysts and their associated salaries in the US.*
 
@@ -286,7 +286,7 @@ plt.tight_layout()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the US](3_Project\images\optimal_skills_final_vis.png)
+![Most Optimal Skills for Data Analysts in the US](https://github.com/TimAnderson1/Python-Project/blob/main/3_Project/images/optimal_skills_final_vis.png)
 
 *A scatter plot visualising the most optimal skills (high paying & high demand) for Data Analysts in the US.*
 
